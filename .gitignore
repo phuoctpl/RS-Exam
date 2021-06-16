@@ -1,0 +1,7 @@
+# Tools / IDE
+.idea/
+
+# Build packge
+**/build/
+**/RS_Exam.egg-info/
+**/dist/
